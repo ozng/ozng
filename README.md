@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Ozan Gürer
+- 👋 Hi, I’m Ozan
 - 👀 I’m interested in MERN Stack + React Native
 - 🌱 I’m currently learning to be a better on CSS
