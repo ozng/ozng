@@ -12,6 +12,8 @@
 👍 I try to be a better  at **CSS & Vanilla Javascript**
 
 📫 How to reach me **ozangurer12@gmail.com**
+ 
+ 😎 My [portfolio](https://calm-cobbler-d86f55.netlify.app/)
 
 <br>
 
