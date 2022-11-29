@@ -3,7 +3,7 @@
 <br>
 <div align="center">
 
-🦾 I’m currently working on [Movia APP - React](https://github.com/ozng/MovieApp) 
+🦾 I’m currently working on [Places Mobile APP - React Native - Node](https://github.com/ozng/places) 
 
 🔭 I’m **Javascript - React & React-Native** Developer.
 
