@@ -3,11 +3,11 @@
 <br>
 <div align="center">
 
-🦾 I’m currently working on [Places Mobile APP - React Native - Node](https://github.com/ozng/places) 
+🦾 I’m currently working on [E-Commerce Case for MooMoo Games with MEAN Stack](https://github.com/ozng/ShopApp---MooMoo-Games-Case---Angular---Node---MongoDB) 
 
 🔭 I’m **Javascript - React & React-Native** Developer.
 
-🌱 I’m currently learning **Node JS, Mongo DB**
+🌱 I’m currently learning **Node JS, Mongo DB, Angular and Typescript**
 
 👍 I try to be a better  at **CSS & Vanilla Javascript**
 
