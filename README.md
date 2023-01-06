@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 <h3 align="center">A passionate frontend developer from Istanbul/Turkey</h3>
 <br>
-<div align="center">
-
-🦾 I’m currently working on [E-Commerce Case for MooMoo Games with MEAN Stack](https://github.com/ozng/ShopApp---MooMoo-Games-Case---Angular---Node---MongoDB) 
+<div align="center"> 
 
 🔭 I’m **Javascript - React & React-Native** Developer.
 
