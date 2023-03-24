@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">A passionate frontend developer from Istanbul/Turkey</h3>
+<h3 align="center">Working as a Full Stack Developer @MooMoo Games</h3>
 <br>
 <div align="center"> 
 
-🔭 I’m **Javascript - React & React-Native** Developer.
+🔭 I’m **Javascript - React & React-Native - Node JS** Developer.
 
-🌱 I’m currently learning **Node JS, Mongo DB, Angular and Typescript**
-
-👍 I try to be a better  at **CSS & Vanilla Javascript**
+🌱 I’m currently learning *Mongo DB, Typescript and PostgreSQL**
 
 📫 How to reach me **ozangurer12@gmail.com**
  
@@ -45,7 +43,7 @@ __________________________
 * Create routes and data models.
 * Connect to Mongo DB.
 * Hashing important data like passwords.
-* CRUD actions @database.
+* CRUD actions.
 
 ### Others
 * Know how to work with Git.
