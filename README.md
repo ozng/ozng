@@ -5,7 +5,7 @@
 
 🔭 I’m **Javascript - React & React-Native - Node JS** Developer.
 
-🌱 I’m currently learning *Mongo DB, Typescript and PostgreSQL**
+🌱 I’m currently learning *Mongo DB, Typescript , PostgreSQL and Next JS**
 
 📫 How to reach me **ozangurer12@gmail.com**
  
