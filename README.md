@@ -18,41 +18,6 @@
 <br>
 
 __________________________
-<details>
-
-<summary>My Skills</summary>
-
-### React
-* Connecting to a database like Mongo DB or services like Firebase.
-* API requests.
-* Manipulating Data.
-* Reading Documentation of libraries to use it.
-* Installation and using of state management like Redux & Context API, React Router, UI Libraries like antd, bootstrap etc.
-* Forms & Form Actions
-* React Hooks
-
-### React Native
-* All skills @React+
-* Building app's via Expo.
-* Publishing, updating android apps at Google Play Store.
-
-###### **I do not have IOS devices so i cannot test or publish at Apple Store.**
-
-### Node JS
-* Create server via Express.
-* Create routes and data models.
-* Connect to Mongo DB.
-* Hashing important data like passwords.
-* CRUD actions.
-
-### Others
-* Know how to work with Git.
-* Using postman for testing my backend.
-* Try to learn every stage of developing apps but being an expert on Front end. :)
-
-</details>
-
-__________________________
 
 </div>
 
