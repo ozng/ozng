@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">Working as a Full Stack Developer @MooMoo Games</h3>
 <br>
 <div align="center"> 
 
@@ -9,8 +8,6 @@
 
 📫 How to reach me **ozangurer12@gmail.com**
  
- 😎 My [portfolio](https://calm-cobbler-d86f55.netlify.app/)
-
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozng&show_icons=true&locale=en&layout=compact" alt="ozng" /></p>
