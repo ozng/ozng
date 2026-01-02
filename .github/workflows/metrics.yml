@@ -15,9 +15,21 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # 🔑 PRIVATE + PUBLIC repo'ları okuyabilmesi için
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # 👤 GitHub kullanıcı adı
           user: ozng
+
+          # 📄 Üretilecek dosya
           filename: github-metrics.svg
+
+          # 📊 Temel bölümler
           base: header, activity, community, repositories
+
+          # 🧠 En çok kullanılan diller
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
