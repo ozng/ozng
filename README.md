@@ -10,6 +10,7 @@ I enjoy turning ideas into **clean, maintainable products** and continuously imp
 - 🚀 Interested in **SaaS products**, dashboards, and automation
 - 🧩 Strong focus on **backend architecture & APIs**
 - 📈 Data-driven mindset (finance, performance, optimization)
+- 🎉 Currently learning C#, .Net
 
 ---
 
@@ -29,12 +30,12 @@ I enjoy turning ideas into **clean, maintainable products** and continuously imp
 - Git & GitHub
 - Linux
 - AWS / VPS deployments
+- Docker
 
 ---
 
 ## 📌 Currently Working On
 - 🧾 Budget & finance tracking applications
-- 📊 Admin dashboards & internal tools
 - 🔄 Improving system design & scalability
 
 ---
